@@ -78,3 +78,7 @@ Player 1 (X) wins!
 This Tic Tac Toe game is open-source and available under the MIT License. Feel free to modify and distribute it as you like.
 
 Enjoy the game!
+
+
+https://github.com/AnuragB2004/Tic-Tac-Toe/assets/105806479/48302fd5-1d6a-42d4-842e-3156d49e6a65
+
